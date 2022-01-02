@@ -8,6 +8,10 @@
   margin: 0px 0px 30px 0px !important;
 }
 
+.custom-card:hover {
+  background-color: plum;
+}
+
 .mail {
   color: red;
   font-size: 13px;

@@ -3,7 +3,7 @@ import "../Css/card.css";
 
 const Card = ({ gender, title, first, last, email }) => {
   return (
-    <div className="container custom-card py-1 ">
+    <div className="container custom-card py-1 mx-2 ">
       <p>{gender}.NL</p>
       <div>
         <h5 className="user-name">
